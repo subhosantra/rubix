@@ -30,7 +30,7 @@ EMAIL_PORT = EMAIL_PORT
 SECRET_KEY = 'django-insecure-$$x%cg6igk^a=c9@mnio@t3#z))9bj95lho(vt%%gy0!*7l!o+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['py-cube-solver.herokuapp.com', '127.0.0.1']
 
